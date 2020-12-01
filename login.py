@@ -25,5 +25,3 @@ passwords = dict()
 # account_creation()
 # @ask_login()
 dir(passwords)
-
-print passwords 
